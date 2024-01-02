@@ -13,7 +13,7 @@ Follow these steps to run the BMI Calculator on your local machine:
 1. Clone this repository to your computer:
 
    ```
-   git clone https://github.com/yourusername/bmi-calculator.git
+   git clone https://github.com/harindujayakody/bmi-calculator.git
    ```
 
 2. Navigate to the project directory:
