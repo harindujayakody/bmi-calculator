@@ -2,9 +2,6 @@
 
 ![image](https://github.com/harindujayakody/bmi-calulator/assets/9878813/4466e867-112a-4db4-903d-0ba82cf0909e)
 
-I understand your frustration, and I apologize for the confusion. Here's the complete README content that you can copy in a single click:
-
-```
 # BMI Calculator
 
 A simple BMI calculator that helps you determine your Body Mass Index (BMI) and provides an interpretation of your BMI category.
@@ -16,7 +13,7 @@ Follow these steps to run the BMI Calculator on your local machine:
 1. Clone this repository to your computer:
 
    ```
-   git clone https://github.com/harindujayakody/bmi-calculator.git
+   git clone https://github.com/yourusername/bmi-calculator.git
    ```
 
 2. Navigate to the project directory:
@@ -29,7 +26,7 @@ Follow these steps to run the BMI Calculator on your local machine:
 
    ```
    python bmi_calculator.py
-   ```
+   ``
 
 4. Follow the on-screen prompts to enter your weight and height to calculate your BMI.
 
@@ -65,4 +62,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - [pyfiglet](https://pypi.org/project/pyfiglet/) for the ASCII art heading.
 - [psutil](https://pypi.org/project/psutil/) for network statistics.
-```
