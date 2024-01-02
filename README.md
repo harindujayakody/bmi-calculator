@@ -26,7 +26,7 @@ Follow these steps to run the BMI Calculator on your local machine:
 
    ```
    python bmi_calculator.py
-   ``
+   ```
 
 4. Follow the on-screen prompts to enter your weight and height to calculate your BMI.
 
